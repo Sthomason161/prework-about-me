@@ -1,0 +1,16 @@
+
+
+#first {color:red}
+#second {color:blue}
+#third {color:green}
+
+#fourth {font-size:28px;}
+#fifth {font-size:12px;}
+
+#six {text-align:center;}
+#seven {font-family:verdana}
+#eight {font-size:28px; color:orange}
+
+p.styledFont {color:green}
+
+#styledImage {border-style: solid; color:red; width:200px;}
